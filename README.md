@@ -26,6 +26,12 @@ A package that is NOT public and has been removed from the app is MarqueKit. I h
 > Some features in the app may not be functional due to this.
 > 
 
+## TODO
+- [ ] Clean up code (lots of code left over from other projects)
+- [ ] Clean up comments
+- [ ] Finish guide section 
+- [ ] Decoupling guide (Converting the GraniteUI components into native SwiftUI Views)
+
 ## Requirements
 
 - `macOS 11.0+`  ***Build passing*** 🟢
