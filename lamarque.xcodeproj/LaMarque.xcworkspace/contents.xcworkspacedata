@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../Packages/GlassKit">
+   </FileRef>
+   <FileRef
+      location = "group:../Packages/GraniteUI">
+   </FileRef>
+   <FileRef
+      location = "group:../Packages/MarbleKit">
+   </FileRef>
+   <FileRef
+      location = "container:">
+   </FileRef>
+</Workspace>

@@ -1,0 +1,5 @@
+module GMP [system] {
+    header "../GMPLib/gmp.h"
+    link "GMP"
+    export *
+}

@@ -1,0 +1,10 @@
+.DS_Store
+Build
+.build
+# Xcode ignores
+*.xcbkptlist
+*.xcuserstate
+*.xccheckout
+xcuserdata
+Carthage
+Cartfile.resolved

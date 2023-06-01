@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "glasskit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pexavc/GlassKit",
+      "state" : {
+        "branch" : "main",
+        "revision" : "07ab714091e899a2882aaab4a2565922cd17b421"
+      }
+    },
+    {
+      "identity" : "graniteui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pexavc/GraniteUI",
+      "state" : {
+        "branch" : "main",
+        "revision" : "7ad146e908d4bbf64c5b28a18ca0f3b88d150240"
+      }
+    },
+    {
+      "identity" : "marblekit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pexavc/MarbleKit",
+      "state" : {
+        "branch" : "main",
+        "revision" : "9751906ae0cf58f633d0489c5a7ed17a75ab41bd"
+      }
+    }
+  ],
+  "version" : 2
+}
