@@ -17,6 +17,8 @@ Wanted to open source this in preparation for xrOS and anyone that may want a st
 
 ## IMPORTANT
 
+HAVE NOT TESTED ON M-CHIP Macs yet, as my personal is still Intel 
+
 This app uses an archived design pattern of mine [GraniteUI](https://github.com/pexavc/graniteui). If you’d like to use it, beware I won’t be updating it anymore as I moved on to my latest one [Granite](https://github.com/pexavc/granite). Components should still be separable and plucked out easily, for your own personal needs.
 
 A package that is NOT public and has been removed from the app is MarqueKit. I have commented `[CAN REMOVE]` at various locations that used this kit. It was meant for encoding and decoding as images were the primary form of sharing information in the application with other users.
